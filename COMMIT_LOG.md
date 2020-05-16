@@ -255,3 +255,4 @@
 ## 2020-02-16 11:20:45 - feat(deploy): add deploy endpoint (17/20)
 ## 2020-03-28 10:14:24 - feat(ci): implement ci module (12/20)
 ## 2020-04-04 21:00:35 - feat(docs): implement docs module (19/20)
+## 2020-05-16 11:34:20 - feat(test): add test endpoint (18/20)

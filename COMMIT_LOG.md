@@ -396,3 +396,4 @@
 ## 2020-10-17 15:07:43 - feat(auth): add auth support (10/20)
 ## 2020-10-24 20:43:24 - feat(cache): create cache handler (6/20)
 ## 2020-11-29 11:03:12 - feat(infra): add infra endpoint (9/20)
+## 2020-12-19 19:36:19 - feat(auth): add auth endpoint (15/20)

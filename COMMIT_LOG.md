@@ -130,3 +130,4 @@
 ## 2020-11-29 11:03:12 - feat(infra): add infra endpoint (9/20)
 ## 2020-12-19 19:36:19 - feat(auth): add auth endpoint (15/20)
 ## 2021-02-06 20:08:13 - feat(deploy): implement deploy module (15/20)
+## 2021-02-13 14:10:06 - feat(worker): implement worker feature (18/20)

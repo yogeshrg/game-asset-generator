@@ -267,3 +267,4 @@
 ## 2021-02-13 14:10:06 - feat(worker): implement worker feature (18/20)
 ## 2021-03-20 12:11:03 - feat(test): add test endpoint (15/20)
 ## 2021-04-11 10:37:12 - feat(infra): create infra handler (7/20)
+## 2021-04-24 15:02:18 - feat(model): implement model module (2/20)

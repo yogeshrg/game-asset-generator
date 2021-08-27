@@ -404,3 +404,4 @@
 ## 2021-04-24 15:02:18 - feat(model): implement model module (2/20)
 ## 2021-04-24 19:23:09 - feat(db): create db handler (20/20)
 ## 2021-06-13 21:53:57 - feat(queue): add queue support (6/20)
+## 2021-08-27 23:35:24 - feat(alert): implement alert feature

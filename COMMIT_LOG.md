@@ -273,3 +273,4 @@
 ## 2021-08-27 23:35:24 - feat(alert): implement alert feature
 ## 2021-09-12 23:10:58 - feat(db): create db handler (8/20)
 ## 2021-09-18 20:28:47 - feat(deploy): add deploy endpoint (11/20)
+## 2021-10-16 16:06:58 - feat(build): add build endpoint (20/20)

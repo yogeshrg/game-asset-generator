@@ -22,3 +22,4 @@
 ## 2021-09-12 23:10:58 - feat(db): create db handler (8/20)
 ## 2021-09-18 20:28:47 - feat(deploy): add deploy endpoint (11/20)
 ## 2021-10-16 16:06:58 - feat(build): add build endpoint (20/20)
+## 2021-10-24 11:17:51 - feat(ci): implement ci feature (3/20)

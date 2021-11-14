@@ -142,3 +142,4 @@
 ## 2021-10-16 16:06:58 - feat(build): add build endpoint (20/20)
 ## 2021-10-24 11:17:51 - feat(ci): implement ci feature (3/20)
 ## 2021-11-07 18:07:51 - feat(docs): add docs endpoint (17/20)
+## 2021-11-14 19:20:33 - feat(ui): implement ui feature (15/20)

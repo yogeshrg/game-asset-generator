@@ -547,3 +547,4 @@
 ## 2021-11-14 19:20:33 - feat(ui): implement ui feature (15/20)
 ## 2021-11-20 11:57:56 - feat(auth): add auth support (15/20)
 ## 2021-12-05 16:19:21 - feat(db): implement db module (14/20)
+## 2022-01-08 15:51:56 - feat(security): implement security feature (7/20)

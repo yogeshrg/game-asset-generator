@@ -146,3 +146,4 @@
 ## 2021-11-20 11:57:56 - feat(auth): add auth support (15/20)
 ## 2021-12-05 16:19:21 - feat(db): implement db module (14/20)
 ## 2022-01-08 15:51:56 - feat(security): implement security feature (7/20)
+## 2022-01-29 09:21:20 - feat(data): create data handler (13/20)

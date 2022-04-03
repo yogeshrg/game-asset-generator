@@ -149,3 +149,4 @@
 ## 2022-01-29 09:21:20 - feat(data): create data handler (13/20)
 ## 2022-02-06 10:09:41 - feat(build): implement build feature (6/20)
 ## 2022-03-13 13:26:47 - feat(model): create model handler (14/20)
+## 2022-04-03 16:53:27 - feat(auth): add auth support (2/20)

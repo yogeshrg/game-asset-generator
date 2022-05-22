@@ -555,3 +555,4 @@
 ## 2022-04-16 16:58:36 - feat(auth): implement auth feature (19/20)
 ## 2022-04-16 19:02:40 - feat(data): implement data feature (11/20)
 ## 2022-05-08 22:34:55 - feat(monitor): add monitor support (10/20)
+## 2022-05-22 09:21:41 - feat(docs): create docs handler (18/20)

@@ -556,3 +556,4 @@
 ## 2022-04-16 19:02:40 - feat(data): implement data feature (11/20)
 ## 2022-05-08 22:34:55 - feat(monitor): add monitor support (10/20)
 ## 2022-05-22 09:21:41 - feat(docs): create docs handler (18/20)
+## 2022-06-04 09:39:32 - feat(build): add build support (10/20)

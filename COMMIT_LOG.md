@@ -557,3 +557,4 @@
 ## 2022-05-08 22:34:55 - feat(monitor): add monitor support (10/20)
 ## 2022-05-22 09:21:41 - feat(docs): create docs handler (18/20)
 ## 2022-06-04 09:39:32 - feat(build): add build support (10/20)
+## 2022-06-18 12:26:40 - feat(ui): add ui support (1/20)

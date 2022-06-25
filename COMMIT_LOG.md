@@ -291,3 +291,4 @@
 ## 2022-06-04 09:39:32 - feat(build): add build support (10/20)
 ## 2022-06-18 12:26:40 - feat(ui): add ui support (1/20)
 ## 2022-06-19 16:39:10 - feat(log): create log handler (4/20)
+## 2022-06-25 13:41:14 - feat(build): create build handler (19/20)

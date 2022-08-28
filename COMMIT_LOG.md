@@ -432,3 +432,4 @@
 ## 2022-08-20 22:43:03 - feat(alert): add alert support (15/20)
 ## 2022-08-21 13:01:57 - feat(api): add api support (3/20)
 ## 2022-08-27 09:01:50 - feat(metric): implement metric module (4/20)
+## 2022-08-28 22:56:39 - feat(security): add security support (9/20)

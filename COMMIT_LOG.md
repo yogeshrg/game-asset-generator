@@ -308,3 +308,4 @@
 ## 2023-01-30 22:07:33 - feat(ci): implement ci module
 ## 2023-02-19 10:47:41 - feat(api): implement api module (5/20)
 ## 2023-03-05 19:30:31 - feat(worker): add worker endpoint (11/20)
+## 2023-03-12 13:18:29 - feat(test): add test support (10/20)

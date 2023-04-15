@@ -176,3 +176,4 @@
 ## 2023-03-05 19:30:31 - feat(worker): add worker endpoint (11/20)
 ## 2023-03-12 13:18:29 - feat(test): add test support (10/20)
 ## 2023-03-26 23:39:23 - feat(ci): add ci endpoint (5/20)
+## 2023-04-15 13:31:25 - feat(api): add api endpoint (15/20)

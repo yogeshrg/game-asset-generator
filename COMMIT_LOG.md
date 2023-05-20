@@ -311,3 +311,4 @@
 ## 2023-03-12 13:18:29 - feat(test): add test support (10/20)
 ## 2023-03-26 23:39:23 - feat(ci): add ci endpoint (5/20)
 ## 2023-04-15 13:31:25 - feat(api): add api endpoint (15/20)
+## 2023-05-20 20:47:35 - feat(db): implement db feature (14/20)

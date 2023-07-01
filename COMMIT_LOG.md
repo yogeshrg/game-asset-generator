@@ -315,3 +315,4 @@
 ## 2023-05-27 22:52:40 - feat(api): create api handler (1/20)
 ## 2023-05-31 13:42:53 - feat(infra): add infra support
 ## 2023-06-25 22:33:06 - feat(log): create log handler (15/20)
+## 2023-07-01 10:40:09 - feat(ci): implement ci module (14/20)

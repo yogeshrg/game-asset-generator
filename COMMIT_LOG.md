@@ -184,3 +184,4 @@
 ## 2023-07-01 10:40:09 - feat(ci): implement ci module (14/20)
 ## 2023-07-23 14:41:53 - feat(db): create db handler (6/20)
 ## 2023-09-23 23:01:32 - feat(log): add log endpoint (11/20)
+## 2023-10-15 15:58:53 - feat(metric): add metric support (3/20)

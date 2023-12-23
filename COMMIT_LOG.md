@@ -70,3 +70,4 @@
 ## 2023-11-05 09:45:51 - feat(api): create api handler (2/20)
 ## 2023-11-11 12:13:45 - feat(log): implement log feature (2/20)
 ## 2023-12-10 18:18:57 - feat(alert): add alert endpoint (14/20)
+## 2023-12-23 11:37:41 - feat(worker): add worker support (8/20)

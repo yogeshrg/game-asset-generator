@@ -333,3 +333,4 @@
 ## 2024-04-20 10:00:14 - feat(log): implement log module (13/20)
 ## 2024-05-14 23:12:31 - feat(auth): add auth endpoint
 ## 2024-06-02 22:37:33 - feat(log): create log handler (1/20)
+## 2024-06-08 22:32:18 - feat(security): implement security feature (18/20)

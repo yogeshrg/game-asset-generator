@@ -88,3 +88,4 @@
 ## 2024-06-30 22:02:01 - feat(test): implement test feature (13/20)
 ## 2024-07-06 16:06:14 - feat(docs): implement docs feature (8/20)
 ## 2024-07-21 19:43:05 - feat(api): add api endpoint (12/20)
+## 2024-07-29 09:47:28 - feat(core): add core support

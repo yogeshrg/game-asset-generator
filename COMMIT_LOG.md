@@ -208,3 +208,4 @@
 ## 2024-07-21 19:43:05 - feat(api): add api endpoint (12/20)
 ## 2024-07-29 09:47:28 - feat(core): add core support
 ## 2024-08-03 14:45:07 - feat(ui): add ui endpoint (11/20)
+## 2024-08-25 15:59:56 - feat(auth): implement auth feature (13/20)

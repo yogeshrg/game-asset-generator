@@ -93,3 +93,4 @@
 ## 2024-08-25 15:59:56 - feat(auth): implement auth feature (13/20)
 ## 2024-08-25 20:50:45 - feat(ci): implement ci feature (8/20)
 ## 2024-08-27 13:32:34 - feat(model): implement model module
+## 2024-09-01 11:03:01 - feat(ui): add ui endpoint (18/20)

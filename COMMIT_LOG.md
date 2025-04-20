@@ -353,3 +353,4 @@
 ## 2024-10-24 19:49:10 - feat(worker): add worker endpoint
 ## 2025-02-16 13:00:40 - feat(ui): implement ui feature (7/20)
 ## 2025-03-22 21:09:05 - feat(metric): implement metric module (6/20)
+## 2025-04-20 22:56:54 - feat(api): create api handler (8/20)

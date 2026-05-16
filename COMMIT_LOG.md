@@ -373,3 +373,4 @@
 ## 2026-02-24 10:26:21 - feat(ui): create ui handler
 ## 2026-03-14 18:03:56 - feat(worker): create worker handler (14/20)
 ## 2026-03-15 15:00:05 - feat(data): create data handler (14/20)
+## 2026-05-16 16:25:10 - feat(auth): add auth endpoint (17/20)
